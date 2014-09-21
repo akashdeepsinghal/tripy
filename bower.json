@@ -1,0 +1,26 @@
+{
+  "name": "tripsphere",
+  "version": "0.0.0",
+  "description": "Homepage for Tripsphere",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "tripsphere"
+  ],
+  "authors": [
+    "Akash Deep Singhal"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.tripsphere.in",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.25"
+  }
+}
